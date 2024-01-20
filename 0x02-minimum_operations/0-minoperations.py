@@ -24,4 +24,3 @@ def min_operations(n):
         minOpe += 1
 
     return nOpe
-
