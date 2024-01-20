@@ -5,7 +5,7 @@ required to copy and paste letters.
 """
 
 
-def min_operations(n):
+def minOperations(n):
     """
     Calculate the minimum operations to copy and paste letters.
 
