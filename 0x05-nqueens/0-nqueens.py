@@ -60,7 +60,7 @@ def main():
     Main entry point of the program.
     """
     if len(sys.argv) != 2:
-        print("Usage: nqueens N")
+        print("Usage: ./nqueens N")
         sys.exit(1)
     try:
         n = int(sys.argv[1])
@@ -72,7 +72,8 @@ def main():
 
     solutions = generate_solutions(n)
     for solution in solutions:
-        print(solution)
+        formatted_solution = [[row, col] for row, col in solution]
+        print(formatted_solution)
 
 
 if __name__ == "__main__":
