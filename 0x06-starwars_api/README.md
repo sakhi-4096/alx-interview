@@ -4,5 +4,8 @@ The Star Wars API (SWAPI) is a web API that provides a wealth of data about the 
 
 ![Star Wars](../assets/star-wars.png)
 
+## Credits
+  * [SWAPI](https://swapi-api.alx-tools.com/)
+
 ## Contact
  * [Twitter](https://www.twitter.com/sakhilelindah) / [Github](https://github.com/sakhi-4096) / [Mail](mailto:sakhilelindah@protonmail.com)
