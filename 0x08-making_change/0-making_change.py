@@ -9,6 +9,7 @@ Functions:
     to make the total.
 """
 
+
 def makeChange(coins, total):
     """
     Determine the minimum number of coins required to make the given total.
