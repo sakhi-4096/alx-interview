@@ -6,10 +6,10 @@ Calculate and return the perimeter of the island in the given grid.
 
 def island_perimeter(grid):
     '''
-    This function traverses the grid and calculates the perimeter of the island.
-    It iterates over each cell in the grid. If the cell represents land (1), it
-    adds 4 to the perimeter. Then, it checks adjacent cells to reduce the perimeter
-    if there is land neighboring the current cell.
+    This function traverses the grid and calculates the perimeter of the
+    island. It iterates over each cell in the grid. If the cell represents
+    land (1), it adds 4 to the perimeter. Then, it checks adjacent cells
+    to reduce the perimeter if there is land neighboring the current cell.
 
     Args:
     grid (List[List[int]]): A 2D grid representing the island.
